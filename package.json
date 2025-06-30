@@ -1,0 +1,14 @@
+{
+  "name": "oopFW",
+  "uuid": "de211613-5101-4e0b-9716-a303c5966e2b",
+  "creator": {
+    "version": "3.8.5"
+  },
+  "description": "基于oop的2D游戏框架",
+  "dependencies": {
+    "globals": "^16.2.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0"
+  }
+}
